@@ -95,7 +95,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             <div>
               <div className="flex items-center space-x-2">
                 <span className="text-lg font-black tracking-tight text-white font-mono">
-                  DisasterGuard<span className="text-rose-500">.AI</span>
+                  ResQ<span className="text-rose-500">.AI</span>
                 </span>
                 <span className="px-1.5 py-0.5 text-[9px] font-extrabold uppercase rounded bg-rose-950 text-rose-400 border border-rose-800/60 font-mono">
                   6-Agent Core
