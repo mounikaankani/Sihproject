@@ -214,7 +214,7 @@ export const App: React.FC = () => {
           <div className="flex items-center space-x-2">
             <span className="font-bold text-slate-300">DisasterGuard AI</span>
             <span>•</span>
-            <span>Smart India Hackathon (SIH 2026) Official Project Submission</span>
+            <span>Government portal</span>
           </div>
           <div className="flex items-center space-x-4">
             <span>NDMA Emergency Helpline: 1078</span>

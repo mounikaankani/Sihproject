@@ -61,7 +61,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             </span>
             <span className="hidden md:inline-block text-slate-700">|</span>
             <span className="hidden md:inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold bg-indigo-950/80 text-indigo-300 border border-indigo-800/60 font-mono">
-              SIH 2026 OFFICIAL
+              OFFICIAL PORTAL
             </span>
           </div>
 
